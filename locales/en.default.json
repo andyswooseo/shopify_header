@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+{
+  "general": {
+    "404": {
+      "title": "Not found",
+      "subtext_html": "The page you were looking for does not exist"
+    }
+  }
+}
+=======
+{
+  "general": {
+    "404": {
+      "title": "Not found",
+      "subtext_html": "The page you were looking for does not exist"
+    }
+  }
+}
+>>>>>>> 94a0416 (hello world another)
